@@ -1,0 +1,73 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "At least 25 killed, 183 injured in clashes across Sudan as paramilitary group claims control of presidential palace - CNN",
+            "description": "At least 25 people were killed and 183 others injured in clashes across Sudan, the Sudanese Central Medical Committee told CNN on Saturday.",
+            "url": "https://www.cnn.com/2023/04/15/africa/sudan-presidential-palace-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230415071804-02-sudan-unrest-0415.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-16T02:35:00Z",
+            "content": "At least 25 people were killed and 183 others injured in clashes across Sudan, the Sudanese Central Medical Committee told CNN on Saturday.\r\nSudans paramilitary chief Mohamed Hamdan Dagalo claims to … [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Charles Gasparino",
+            "title": "Dylan Mulvaney controversy at Anheuser-Busch is giving the company a bitter sip of woke - New York Post ",
+            "description": "“Is it really prudent to ignore the market that got you where you are?” my trader source asks. The stock market is asking that question and answering with a resounding “no.”",
+            "url": "https://nypost.com/2023/04/15/bitter-sip-of-woke-at-anheuser-busch/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/04/vivek-col-mulvaney-004-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-04-16T01:47:00Z",
+            "content": "A group of marketing execs at Anheuser-Busch, the company that created the Budweiser beer franchise, are brainstorming about their inability to extend Buds client base beyond traditional beer drinker… [+5294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Zelda: Tears Of The Kingdom Switch Download Card Shows Off New Characters - Nintendo Life",
+            "description": "Another official reveal",
+            "url": "https://www.nintendolife.com/news/2023/04/zelda-tears-of-the-kingdom-switch-download-card-shows-off-new-characters",
+            "urlToImage": "https://images.nintendolife.com/83f51d28e6df7/1280x720.jpg",
+            "publishedAt": "2023-04-16T01:30:00Z",
+            "content": "Image: Nintendo\r\nIf you're eager to see more of The Legend of Zelda: Tears of the Kingdom, it seems we've got another official reveal.\r\nDownload cards for the game are now appearing at stores in Japa… [+810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Lauren Girgis",
+            "title": "WA ferry runs aground on Bainbridge Island after losing power - The Seattle Times",
+            "description": "The ferry Walla Walla between Seattle and Bremerton ran aground in Rich Passage on Saturday, Washington State Ferries said.",
+            "url": "https://www.seattletimes.com/seattle-news/transportation/wa-ferry-run-aground-in-rich-passage-possibly-due-to-generator-failure/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2023/04/04152023_tzr_tzr_180554.jpg?d=1200x630",
+            "publishedAt": "2023-04-16T01:07:11Z",
+            "content": "The ferry Walla Walla headed from Bremerton to Seattle ran aground around 4:30 p.m. Saturday in Rich Passage, Washington State Ferries said. \r\nNo injuries have been reported in the incident on the so… [+860 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marshall Cohen",
+            "title": "Fox News apologizes to judge for 'misunderstanding' over Rupert Murdoch's role that sparked investigation - CNN",
+            "description": "Fox News formally apologized to the judge in the Dominion defamation case, taking responsibility for the \"misunderstanding\" regarding Rupert Murdoch's role at the network that led the judge to launch an investigation into potential legal misconduct by Fox, ac…",
+            "url": "https://www.cnn.com/2023/04/15/media/fox-news-rupert-murdoch-apology/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230323140829-01-rupert-murdoch-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-04-16T01:05:00Z",
+            "content": "Fox News formally apologized to the judge in the Dominion defamation case, taking responsibility for the misunderstanding regarding Rupert Murdochs role at the network that led the judge to launch an… [+2318 chars]"
+        }
+        
+        
+    ]
+}
